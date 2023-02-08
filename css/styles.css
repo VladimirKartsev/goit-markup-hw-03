@@ -363,7 +363,10 @@ margin-right: 40px;
    padding-top: 108px;
    padding-bottom: 120px;
 }
-
+.portfolio-div{
+    width: 360px;
+    padding: 0px 16px;
+}
 .filter {
     display: flex;
     justify-content: center;
@@ -419,6 +422,7 @@ margin-right: 40px;
 .portfolio-item {
     border: 1px solid var(--color_cornflower);
     width: 360px;
+    height: 420px;
 }
 
 .portfolio-title {
@@ -428,6 +432,8 @@ margin-right: 40px;
     line-height: 1.2;
     letter-spacing: 0.02em;
     color: var(--color_navy-blue);
+    margin-top: 32px;
+    margin-bottom: 8px;
 }
 
 .portfolio-title:hover,
