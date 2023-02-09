@@ -407,7 +407,6 @@ margin-right: 40px;
 }
 
 .portfolio-title {
-    padding-left: 16px;
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
@@ -423,8 +422,6 @@ margin-right: 40px;
 
 .portfolio-text {
     font-family: var(--font_primary);
-    padding-left: 16px;
-    margin-bottom: 8px;
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: var(--color_slate);
